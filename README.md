@@ -1,0 +1,4 @@
+visacoin
+========
+
+Cryptocurrency coin
